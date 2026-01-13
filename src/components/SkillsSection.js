@@ -47,8 +47,8 @@ export default function SkillsSection() {
       title: 'Front End',
       icon: PenTool,
       skills: [
-        { name: 'HTML', level: 90 },
-        { name: 'CSS', level: 85 },
+        { name: 'HTML', level: 80 },
+        { name: 'CSS', level: 80 },
         { name: 'JavaScript', level: 75 },
         { name: 'React JS', level: 85 }
       ]
