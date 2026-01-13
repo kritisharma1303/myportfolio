@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kritisharma1303/myportfolio/static/css/main.f855e6bc.css",
+    "main.js": "/kritisharma1303/myportfolio/static/js/main.828a9512.js",
+    "static/media/mypic.png": "/kritisharma1303/myportfolio/static/media/mypic.2b65b158d38dfa6c2de3.png",
+    "index.html": "/kritisharma1303/myportfolio/index.html",
+    "main.f855e6bc.css.map": "/kritisharma1303/myportfolio/static/css/main.f855e6bc.css.map",
+    "main.828a9512.js.map": "/kritisharma1303/myportfolio/static/js/main.828a9512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.828a9512.js"
+  ]
+}
